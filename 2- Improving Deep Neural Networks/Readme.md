@@ -88,6 +88,11 @@ Here are the course summary as its given on the course [link](https://www.course
 
 ### Bias / Variance
 
+High variance = overfitting = training set error << test set error
+Get more training data, add regularization (dropout, data augmentation, L2 regularization)
+
+High bias = model too simple = training set error high (test set high too), make model more complex, train longer, better NN architecture
+
 - Bias / Variance techniques are Easy to learn, but difficult to master.
 - So here the explanation of Bias / Variance:
   - If your model is underfitting (logistic regression of non linear data) it has a "high bias"
