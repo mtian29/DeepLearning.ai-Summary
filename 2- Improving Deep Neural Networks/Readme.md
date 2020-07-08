@@ -694,6 +694,7 @@ Implications of L2-regularization on:
   - `beta[l]    - (n[l], m)`
   - `gamma[l]   - (n[l], m)`
 
+Pay attention: gamma and beta are per hidden unit. (NOT per hidden layer)
 ### Why does Batch normalization work?
 
 - The first reason is the same reason as why we normalize X.
