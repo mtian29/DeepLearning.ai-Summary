@@ -128,7 +128,7 @@ Here are the course summary as its given on the course [link](https://www.course
 
 ### Train/dev/test distributions
 
-- Dev and test sets have to come from the same distribution.
+- Dev and test sets have to come from the same distribution. (What matters is that the dev and test set have the same distribution.)
 - Choose dev set and test set to reflect data you expect to get in the future and consider important to do well on.
 - Setting up the dev set, as well as the validation metric is really defining what target you want to aim at.
 
