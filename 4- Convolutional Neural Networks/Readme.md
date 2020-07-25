@@ -456,7 +456,7 @@ Here is the course summary as given on the course [link](https://www.coursera.or
 
   - Then `a[l+2] = g( a[l] ) = a[l]` with no negative values.
 
-  - This show that identity function is easy for a residual block to learn. And that why it can train deeper NNs.
+  - This show that identity function (function that like g(x) = x)  is easy for a residual block to learn. And that why it can train deeper NNs.
 
   - Also that the two layers we added doesn't hurt the performance of big NN we made.
 
