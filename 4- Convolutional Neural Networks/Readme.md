@@ -1274,7 +1274,7 @@ Here is the course summary as given on the course [link](https://www.coursera.or
 - The iterations might be as following image:
   - To Generate this:
     - ![](Images/40.png)
-  - You will go through this:
+  - You will go through this: (During each iteration, the pixel values of the generated image G is updated.)
     - ![](Images/41.png)
 
 #### Content Cost Function
