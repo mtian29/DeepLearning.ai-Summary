@@ -539,6 +539,7 @@ Implications of L2-regularization on:
 - Developed by Geoffrey Hinton and firstly introduced on [Coursera.org](https://www.coursera.org/) course.
 
 ### Adam optimization algorithm
+Increase the learning rate when gradient is small.
 
 - Stands for **Adaptive Moment Estimation**.
 - Adam optimization and RMSprop are among the optimization algorithms that worked very well with a lot of NN architectures.
